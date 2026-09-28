@@ -1,17 +1,17 @@
 ======================================================================
  CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
 ======================================================================
- Status         : INCOMPLETE - see failures below
+ Status         : COMPLETE - all checks passed
  GitHub user    : Kat-Kirschbaum
  Repository     : https://github.com/Kat-Kirschbaum/Assignment1
- Commit         : 3cca353  added my name
- Commit author  : Kat Kirschbaum
- Generated      : 2026-09-21 11:46:09
+ Commit         : 15525cb  Merge pull request #1 from Kat-Kirschbaum/main
+ Commit author  : Kat K.
+ Generated      : 2026-09-28 15:37:22
 
  SELF CHECK
 ======================================================================
  CS 1430  -  ASSIGNMENT 1 SELF CHECK
- 2026-09-21 11:46:09   Kat Kirschbaum
+ 2026-09-28 15:37:22   Kat K.
 ======================================================================
  [PASS] Python is installed                        3.14.7
  [PASS] main.py is in this folder                  
@@ -21,10 +21,9 @@
  [PASS] Your name shows up when the program runs   1 new line of output
  [PASS] Git is installed                           git version 2.55.0.windows.5
  [PASS] This folder is a Git repository            
- [PASS] You have made a commit                     "added my name"
+ [PASS] You have made a commit                     "Merge pull request #1 from Kat-Kirschbaum/main"
  [PASS] This repo points at GitHub                 github.com/Kat-Kirschbaum/Assignment1
- [FAIL] Your commit is pushed to GitHub            3cca353
-        -> Committing saves your work on this computer. PUSH sends it to GitHub. Push now, then run this file again.
+ [PASS] Your commit is pushed to GitHub            15525cb
 ======================================================================
 
  WHAT YOUR PROGRAM PRINTED
